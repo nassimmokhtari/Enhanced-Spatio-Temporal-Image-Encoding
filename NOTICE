@@ -1,0 +1,9 @@
+Project Name: Spatio-Temporal Image Encoding
+
+Description: This project represents the implementation of the Enhanced Spatio-Temporal Image Encoding used in the paper "Enhanced Spatio- Temporal Image Encoding for Online Human Activity Recognition" published in the "International Conference on Machine Learning and Applications (ICMLA) 2023".
+
+Author: Nassim Mokhtari, Vincent Fer, Alexis Nédélec, Marlène Gilles and Pierre De Loor.
+
+Project URL: https://ieeexplore.ieee.org/abstract/document/10459847
+
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file for more information about the terms of the license.
