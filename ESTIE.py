@@ -196,10 +196,10 @@ def ESTIE(image, weights):
     img = np.zeros((2 * height, width, 3), dtype=np.uint8)
     for i in X:
         for j in Y:
-            img[i, j] = RGB[j, i]
+            img[i, j] = En[j, i]
     for i in X:
         for j in Y:
-            img[i + 25, j] = En[j, i]
+            img[i + 25, j] = RGB[j, i]
     return img
 
 
