@@ -53,6 +53,6 @@ The ESTIE image is the combination of the [STIE](https://github.com/nassimmokhta
 
 ![ESTIE example](https://github.com/nassimmokhtari/Enhanced-Spatio-Temporal-Image-Encoding/blob/main/images/ESTIE.png)
 
-### MODELS
+### Trained models
 
 You can find the trained VGG16 (STIE and ESTIE versions) under the folder **models**
